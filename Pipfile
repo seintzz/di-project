@@ -13,6 +13,9 @@ pandas = "*"
 matplotlib = "*"
 scipy = "*"
 seaborn = "*"
+sklearn = "*"
+statsmodels = "*"
+imblearn = "*"
 
 [requires]
 python_version = "3.8"
